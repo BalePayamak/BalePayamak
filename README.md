@@ -1,0 +1,3 @@
+- 👋 Hi, Whe're Bale Payamak
+- 👀 An iranian bot for sending messages
+- 📫 You Can Reach Us At https://t.me/anewprogrammer
